@@ -1,6 +1,7 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Test world";
 while(true) {
-  print "works"
+  print "works";
 }
 ?>
